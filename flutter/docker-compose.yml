@@ -1,0 +1,5 @@
+services:
+  central_flutter:
+    build: .
+    ports:
+      - "8888:80"
